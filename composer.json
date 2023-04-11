@@ -1,5 +1,5 @@
 {
-    "name": "optimus/architect",
+    "name": "naturalhr/architect",
     "autoload": {
         "psr-4": {
             "Optimus\\Architect\\": "src/"
